@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [The Need for AI-Based Recommendation Systems](chapter-1-1.md)
   - [Overview of Artificial Intelligence and Its Applications in Recommendation Systems](chapter-1-2.md)
-  - [Objectives and Structure of the Book](chapter-1-3.md)
 - [Understanding Recommendation Systems](chapter-2.md)
   - [Overview of Recommendation Systems](chapter-2-1.md)
   - [Traditional Approaches to Recommendation Systems](chapter-2-2.md)
