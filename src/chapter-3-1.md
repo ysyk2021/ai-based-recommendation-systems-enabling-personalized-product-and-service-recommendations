@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Recommendation Systems
-====================================================================================================================================
 
 Artificial intelligence (AI) plays a critical role in recommendation systems by providing the ability to analyze large amounts of data and generate personalized recommendations. In this chapter, we will discuss the types of AI used in recommendation systems and their applications.
 

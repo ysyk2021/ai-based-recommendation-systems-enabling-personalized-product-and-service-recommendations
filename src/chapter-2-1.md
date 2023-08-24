@@ -1,5 +1,3 @@
-Overview of Recommendation Systems
-========================================================================
 
 Recommendation systems are a type of artificial intelligence (AI) that have become increasingly popular in recent years. These systems use algorithms to analyze customer data and provide personalized recommendations for products and services. In this chapter, we will provide an overview of recommendation systems, including their history, types, and applications.
 

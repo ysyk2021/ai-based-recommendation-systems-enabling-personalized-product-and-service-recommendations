@@ -1,5 +1,3 @@
-Collaborative Filtering and Personalization
-==============================================================================================
 
 AI-based recommendation systems rely on advanced machine learning techniques to analyze customer data and provide personalized recommendations. In this chapter, we will explore two important recommendation techniques: collaborative filtering and personalization.
 

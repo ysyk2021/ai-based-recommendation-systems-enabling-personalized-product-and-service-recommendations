@@ -1,5 +1,3 @@
-Customer Profile and Demographic Data
-==============================================================================================
 
 Recommendation systems rely on data to provide personalized product and service recommendations. One important type of data is customer profile and demographic data, which can provide valuable insights into a customer's preferences and behaviors. In this chapter, we will explore the importance of customer profile and demographic data in recommendation systems and how it is collected and analyzed.
 

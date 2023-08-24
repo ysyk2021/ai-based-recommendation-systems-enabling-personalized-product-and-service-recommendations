@@ -1,5 +1,3 @@
-Hybrid Approaches and Reinforcement Learning
-===============================================================================================
 
 Hybrid approaches and reinforcement learning are two important techniques in AI-based recommendation systems. In this chapter, we will explore these techniques and their importance in providing personalized recommendations.
 

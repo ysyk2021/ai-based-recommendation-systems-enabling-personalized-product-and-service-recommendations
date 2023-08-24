@@ -1,5 +1,3 @@
-Overview of AI-Based Recommendation Techniques and Strategies
-================================================================================================================
 
 AI-based recommendation systems offer a wide range of techniques and strategies for generating personalized product and service recommendations. In this chapter, we will provide an overview of some of the most commonly used techniques and strategies.
 

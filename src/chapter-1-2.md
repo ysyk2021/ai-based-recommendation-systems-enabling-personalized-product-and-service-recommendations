@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Recommendation Systems
-================================================================================================
 
 Artificial intelligence (AI) has revolutionized the way businesses operate, providing a means to analyze vast amounts of data and generate insights that were previously impossible. One of the most significant applications of AI is in recommendation systems. In this chapter, we will provide an overview of AI and its applications in recommendation systems.
 

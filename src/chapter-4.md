@@ -1,5 +1,3 @@
-Data Collection and Analysis for Recommendation Systems
-=======================================================
 
 The success of AI-based recommendation systems largely depends on the quality and quantity of data that is collected and analyzed. In this chapter, we will discuss the various types of data that are collected and analyzed for recommendation systems.
 

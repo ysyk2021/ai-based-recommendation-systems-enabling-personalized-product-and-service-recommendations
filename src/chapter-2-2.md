@@ -1,5 +1,3 @@
-Traditional Approaches to Recommendation Systems
-======================================================================================
 
 Before the emergence of AI-based recommendation systems, traditional approaches were used to provide personalized product and service recommendations. In this chapter, we will discuss some of these traditional approaches.
 

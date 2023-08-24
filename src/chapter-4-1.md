@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Recommendation Systems
-============================================================================================================================
 
 AI-based recommendation systems rely heavily on the collection and analysis of customer data to make personalized product and service recommendations. In this chapter, we will provide an overview of the data collection and analysis methods used in recommendation systems.
 
